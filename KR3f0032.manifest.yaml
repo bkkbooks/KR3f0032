@@ -1,0 +1,137 @@
+canonical_identifier: bkk:krp/KR3f0032/v1
+canonical_location: https://kanripo.org/bkk/KR3f0032/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 九章算術注
+  identifiers:
+    krp: KR3f0032
+  tags:
+    kr-categories: KR3f
+    tls-internal:
+    - swl
+    - tr-fr
+    - tr-en
+    tls-dates: dat06130
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0032.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0032_001.yaml, hash: 'sha256:4bff6466113aced76698db8270e79c6edc4697d383d2fa365fcded7eea7fea0b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0032_001.markers.yaml, hash: 'sha256:81001ad46f55f0c358a523cca1eecfb2216ffc158f221b5848e8f7e746e25548'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p0002a-s1-seg1a
+    span:
+    - front
+    - 0
+    - 736
+  label: 劉徽九章算術注序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-h0021a
+    span:
+    - body
+    - 0
+    - 7461
+  label: 九章算術九章算術南宋本永樂大典本作九章算經今依東漢光和大司農斛銘文及戴震校本下同卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p0259a-s1-seg1a
+    span:
+    - body
+    - 7461
+    - 11723
+  label: 九章算術卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p0490a-s1-seg1a
+    span:
+    - body
+    - 11723
+    - 15132
+  label: 九章算術卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p0625a-s1-seg1a
+    span:
+    - body
+    - 15132
+    - 21650
+  label: 九章算術卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p0811a-s1-seg1a
+    span:
+    - body
+    - 21650
+    - 28826
+  label: 九章算術卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p1058a-s1-seg1a
+    span:
+    - body
+    - 28826
+    - 38477
+  label: 九章算術卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p1320a-s1-seg1a
+    span:
+    - body
+    - 38477
+    - 43652
+  label: 九章算術卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p1520a-s1-seg1a
+    span:
+    - body
+    - 43652
+    - 49273
+  label: 九章算術卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0032_tls_001-p1782a-s1-seg1a
+    span:
+    - body
+    - 49273
+    - 53626
+  label: 九章算術卷第九
+  type: section
+  level: 1
+hash: sha256:d8174100a09cdb006529ce2a14c13da70e7221a022edd9e5be22d89ef22f0400
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

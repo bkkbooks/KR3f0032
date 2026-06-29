@@ -1,0 +1,131 @@
+canonical_identifier: bkk:krp/KR3f0032/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3f0032/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 九章算術
+  identifiers:
+    krp: KR3f0032
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3f
+    tls-internal: tr-fr
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0032.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0032_001-CHANT.yaml, hash: 'sha256:9ed6703892a302f2062f47bac38804c8c8cb5fc4afe9df84389b74d4b6075c2f'}
+  - {seq: 2, filename: KR3f0032_002-CHANT.yaml, hash: 'sha256:667a3ca3abe805c51b9d8c94a0ee0d5c163f53dded98ab456176c2f9ad6d5651'}
+  - {seq: 3, filename: KR3f0032_003-CHANT.yaml, hash: 'sha256:ef52e22ec5ea18b5c8a16007acfa9cc6220b02665ee6ca4c6f225db650ffcda3'}
+  - {seq: 4, filename: KR3f0032_004-CHANT.yaml, hash: 'sha256:9e3e4b055a1af472b43c211e43ce4ab5d7aa0c75bf09bc9885ae05e687790c11'}
+  - {seq: 5, filename: KR3f0032_005-CHANT.yaml, hash: 'sha256:4ee8bd68066bc5374ec332385841d3193d886a37f230b9e6297e8eb062385b50'}
+  - {seq: 6, filename: KR3f0032_006-CHANT.yaml, hash: 'sha256:7da5073549667988cd29170a56c0d56136592a4bbdbb75e33b66dd721904655c'}
+  - {seq: 7, filename: KR3f0032_007-CHANT.yaml, hash: 'sha256:3453e02acbc72b167d1ec3ce921ee533617043ef99ae13a4d4febb73df282465'}
+  - {seq: 8, filename: KR3f0032_008-CHANT.yaml, hash: 'sha256:56ebd0a41e7d7adb8e6c6a7b6d07923c73b5d87108c5c30b992904fd05bae612'}
+  - {seq: 9, filename: KR3f0032_009-CHANT.yaml, hash: 'sha256:cc1f531bf2dad632ea5490b13545b0d0a3f1df6391ef3eccb1f8785cf34f47cc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0032_001-CHANT.markers.yaml, hash: 'sha256:9bdec40b6cea05080cc41457657c2641e14ae737d898c5ab684c64c61b7f242c'}
+  - {seq: 2, role: markers, filename: assets/KR3f0032_002-CHANT.markers.yaml, hash: 'sha256:d697b7ca05e6042e72fe5723edf2dbbca436e779a020e9a9f043b3d01825eb16'}
+  - {seq: 3, role: markers, filename: assets/KR3f0032_003-CHANT.markers.yaml, hash: 'sha256:c1c13178270907c50dcf714a22b78b555295653ba7b5dada1f4cfe7f20e3eb34'}
+  - {seq: 4, role: markers, filename: assets/KR3f0032_004-CHANT.markers.yaml, hash: 'sha256:69028ab8f8d4f26c17c691a6fc3906feba1b7c102aaf00ce70ef38e93f877b37'}
+  - {seq: 5, role: markers, filename: assets/KR3f0032_005-CHANT.markers.yaml, hash: 'sha256:55de3fd4f23a0f5744ff0d3e648c346ef385df0b902c8e070dc7ca87c520d0a0'}
+  - {seq: 6, role: markers, filename: assets/KR3f0032_006-CHANT.markers.yaml, hash: 'sha256:0035b84f85f2a9688bc0940ef93700e3b59e21e438ae0a7ece0811701a8a5d05'}
+  - {seq: 7, role: markers, filename: assets/KR3f0032_007-CHANT.markers.yaml, hash: 'sha256:48b0f053657669cfb70b833be005deaf16e7767dcceb34ae8ee0085bbabf11ac'}
+  - {seq: 8, role: markers, filename: assets/KR3f0032_008-CHANT.markers.yaml, hash: 'sha256:32c5f2bb7d6b837356027861728a42fa4fd10b86937c21e37f81853ab07b3d61'}
+  - {seq: 9, role: markers, filename: assets/KR3f0032_009-CHANT.markers.yaml, hash: 'sha256:296257871392b5479ac5eb5c41197c957d01dc55e1bed205ec59555f74e71c2f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0032_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1802
+  label: 方田
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0032_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 2374
+  label: 粟米
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0032_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 1929
+  label: 衰分
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0032_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2626
+  label: 少廣
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0032_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 2157
+  label: 商功
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0032_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3723
+  label: 均輸
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3f0032_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 1934
+  label: 盈不足
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3f0032_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 2105
+  label: 方程
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3f0032_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 1747
+  label: 句股
+  type: section
+  level: 1
+hash: sha256:9d2673b92f44638c8b12b64b4430a4e6b909e07e4674cdf36caae2ad3c9d838a
