@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3f0032/v1
 canonical_location: https://kanripo.org/bkk/KR3f0032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 九章算術注
   identifiers:
@@ -27,9 +27,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3f0032_001.yaml, hash: 'sha256:fc2dc8c59da6a61c5e1adfc0508635669776c70cde519b3d56ff3a5a727b291f'}
+  - {seq: 1, filename: KR3f0032_001.yaml, hash: 'sha256:56ddc4f07035e37da99d1dd8a0e19cb67b2932ba29c0ccb7e8d7fbe9bdf22074'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3f0032_001.markers.yaml, hash: 'sha256:48ce84b9379e6588e8ab6723e68eda9e7618eeb8c152af79b357fbaa8584be31'}
+  - {seq: 1, role: markers, filename: assets/KR3f0032_001.markers.yaml, hash: 'sha256:1e7a213999f2e4415a7f97536a92cc5e89f247c4733c6159806e4e4597a70933'}
 table_of_contents:
 - ref:
     seq: 1
@@ -131,4 +131,7 @@ table_of_contents:
   label: 九章算術卷第九
   type: section
   level: 1
-hash: sha256:4470d6b7d57d4f972d0ba842f09801b7f2290c2ed0223d7d91247f33d98831e2
+hash: sha256:cee82b95510bcc91c455cded58254f2f85fa5bd459f449e60756de056ecdd7b2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
