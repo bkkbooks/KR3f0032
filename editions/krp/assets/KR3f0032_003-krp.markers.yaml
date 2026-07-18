@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_003-1a01}
   - {type: variant, offset: 0, length: 149, content: 九章算術卷二訂訛補圖算經十書之二休寧戴震東原粟率五十糲米三十粺米二十七糳米二十四御米二十一詩大雅鄭箋云米之率糲十粺九糳八侍御七疏云九章粟米之法粟率五十糲米三十粺二十七糳二十四御二十一言粟五升爲糲米三升已下則米漸細故數益少按其率出錢六百二十買羽二千一百翭反之當二百四十錢一錢四翭其三百八十錢一錢三翭已, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR3f0032_krp_003-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR3f0032_krp_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   - {type: punctuation, offset: 14, content: /, id: KR3f0032_krp_003-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3f0032_krp_003-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR3f0032_krp_003-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_003-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　, id: KR3f0032_krp_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3f0032_krp_003-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 2, content: 　, id: KR3f0032_krp_003-bkkind2}
   - {type: indent, offset: 3, content: 　, id: KR3f0032_krp_003-bkkind3}
   - {type: indent, offset: 4, content: 　, id: KR3f0032_krp_003-bkkind4}
@@ -1810,4 +1812,4 @@ markers:
 
       ', id: KR3f0032_krp_003-bkkkrnewl264}
   back: []
-hash: sha256:9bbe448d45584609f04e81856f04a5f33710b8a941fd666f606a9775c4210766
+hash: sha256:a39ffb43cfa8598a5c9b659927b45b7dd966772f39b52f82c5a610c54b367eed

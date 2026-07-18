@@ -29,7 +29,7 @@ assets:
   parts:
   - {seq: 1, filename: KR3f0032_001.yaml, hash: 'sha256:56ddc4f07035e37da99d1dd8a0e19cb67b2932ba29c0ccb7e8d7fbe9bdf22074'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3f0032_001.markers.yaml, hash: 'sha256:1e7a213999f2e4415a7f97536a92cc5e89f247c4733c6159806e4e4597a70933'}
+  - {seq: 1, role: markers, filename: assets/KR3f0032_001.markers.yaml, hash: 'sha256:d91808df191b0941544e252437c4722590fbd9b459cc54d9743931362b61cfd9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -131,7 +131,7 @@ table_of_contents:
   label: 九章算術卷第九
   type: section
   level: 1
-hash: sha256:cee82b95510bcc91c455cded58254f2f85fa5bd459f449e60756de056ecdd7b2
+hash: sha256:9a88140988604dd4eb11f41af2c560fe2ed25c90da22ef65a97a5a9142131887
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

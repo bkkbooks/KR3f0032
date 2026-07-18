@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_010-1a01}
   - {type: punctuation, offset: 6, content: (, id: KR3f0032_krp_010-bkkpn1}
   - {type: variant, offset: 6, length: 20, content: 算經十書之二假承務郎祕書省鉤考算經文字臣, WYG: 唐}
+  - {type: 'voice:problem', offset: 6, length: 0, id: KR3f0032_krp_010-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 6}
   - {type: punctuation, offset: 10, content: /, id: KR3f0032_krp_010-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3f0032_krp_010-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR3f0032_krp_010-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_010-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR3f0032_krp_010-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3f0032_krp_010-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR3f0032_krp_010-bkkkrnewl2}
@@ -2115,4 +2117,4 @@ markers:
 
       ', id: KR3f0032_krp_010-bkkkrnewl194}
   back: []
-hash: sha256:86dadc44a99213893838d3a1484151e1cb51f5873364f5fe9fbc7c24989f2c3a
+hash: sha256:844019b18022c44e96af1050a9c9826ee89663c2fff8aeac193447b5175e715f

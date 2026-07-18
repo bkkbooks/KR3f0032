@@ -250,6 +250,7 @@ markers:
   - {type: line-break, offset: 738, content: '', id: KR3f0032_SBCK_000-3a07}
   - {type: variant, offset: 738, length: 95, content: 目錄附方田第一凡三十八問補圖二粟米第二凡四十六問衰分第三凡二十問少廣第四凡二十四問補圖一商功第五凡二十八問均輸第六凡二十八問盈不足第七凡二十問方程第八凡十八問句股第九凡二十四問補圖十音義第十, WYG: ''}
   - {type: punctuation, offset: 740, content: (, id: KR3f0032_krp_000-bkkpn1}
+  - {type: 'voice:problem', offset: 740, length: 0, id: KR3f0032_krp_000-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 740}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3f0032_krp_000-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -257,6 +258,7 @@ markers:
       ', id: KR3f0032_krp_000-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_000-3a08}
   - {type: indent, offset: 0, content: 　, id: KR3f0032_krp_000-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3f0032_krp_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 4, content: (, id: KR3f0032_krp_000-bkkpn2}
   - {type: punctuation, offset: 9, content: /, id: KR3f0032_krp_000-bkkpn3}
   - {type: punctuation, offset: 12, content: ), id: KR3f0032_krp_000-bkkpn4}
@@ -331,4 +333,4 @@ markers:
 
       ', id: KR3f0032_krp_000-bkkkrnewl12}
   back: []
-hash: sha256:720cd4c5f5293099ea68bb0b18cac4bf77a1af8a41c7e21df2620db0205a607b
+hash: sha256:5870bd7c89c76af3b8de10314d7691f7de9c949e0fd817cacb778ed2e359efe1

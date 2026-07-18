@@ -10,6 +10,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0032_WYG_009-1a, image: WYG0797/WYG0797-0107a.png}
   - {type: punctuation, offset: 6, content: (, id: KR3f0032_krp_009-bkkpn1}
   - {type: variant, offset: 6, length: 7, content: 算經十書之二魏, WYG: 晋}
+  - {type: 'voice:problem', offset: 6, length: 0, id: KR3f0032_krp_009-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 6}
   - {type: punctuation, offset: 10, content: /, id: KR3f0032_krp_009-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3f0032_krp_009-bkkpn1}
@@ -18,6 +19,7 @@ markers:
       ', id: KR3f0032_krp_009-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3f0032_SBCK_009-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　　, id: KR3f0032_krp_009-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3f0032_krp_009-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR3f0032_krp_009-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR3f0032_krp_009-bkkind3}
   - {type: indent, offset: 3, content: 　, id: KR3f0032_krp_009-bkkind4}
@@ -3535,4 +3537,4 @@ markers:
 
       ', id: KR3f0032_krp_009-bkkkrnewl479}
   back: []
-hash: sha256:3ad9b03af8883cf96a29ba6bac913d518537eaf454812e674e61a3bb602cff59
+hash: sha256:1c1adbfd9f761e7f7879e22d3c3bfe1eab73d13fa84c2f773cd79ab1a7ccba68
